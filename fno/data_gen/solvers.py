@@ -1,3 +1,4 @@
+from tqdm import tqdm
 import math
 from datetime import datetime
 from functools import partial
